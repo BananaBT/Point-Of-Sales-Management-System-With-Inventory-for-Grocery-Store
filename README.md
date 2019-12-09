@@ -1,0 +1,2 @@
+# Point-Of-Sales-Management-System-With-Inventory-for-Grocery-Store
+The CURE Grocery Sales and Inventory System will help the business track sales activity easily, inventory and to ensure that transactions are completed correctly. With the use of the system, retrieval process will speed up and be able to generate immediate sales and inventory report. The data are being stored in the system’s database. The admin is the only person who can add, edit and update products and customers while the cashier can only manipulate the collection payments of customers’ purchases.
